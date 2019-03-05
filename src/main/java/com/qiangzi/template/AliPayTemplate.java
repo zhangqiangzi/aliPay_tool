@@ -1,4 +1,4 @@
-package com.qiangzi.utils;
+package com.qiangzi.template;
 
 import com.alipay.api.AlipayApiException;
 import com.alipay.api.AlipayClient;
@@ -8,7 +8,6 @@ import com.alipay.api.request.*;
 import com.alipay.api.response.*;
 import com.qiangzi.config.AliPayConfig;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 /**
